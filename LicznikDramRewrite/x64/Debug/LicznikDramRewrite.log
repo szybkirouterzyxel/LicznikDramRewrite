@@ -1,2 +1,1 @@
-﻿  LicznikDramRewrite.cpp
-  LicznikDramRewrite.vcxproj -> C:\Users\szybk\source\repos\WikiDram\LicznikDramRewrite\x64\Debug\LicznikDramRewrite.exe
+﻿LINK : fatal error LNK1168: nie można otworzyć pliku C:\Users\szybk\source\repos\WikiDram\LicznikDramRewrite\x64\Debug\LicznikDramRewrite.exe do zapisu
