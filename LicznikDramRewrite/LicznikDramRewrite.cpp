@@ -8,9 +8,6 @@ int main() {
 	cout << "LicznikDramRewrite, Nowy LicznikDram z wiki o dramach  Y - Byla drama, N - nie bylo dramy wiki - Wiki dram info - info o programie";
 	cin >> input;
 
-	if (input == "etd") {
-		cout << "E to dzban";
-	}
 
 	if (input == "Y") {
 		cout << "o Drama";
@@ -26,7 +23,7 @@ int main() {
 	}
 
 	if (input == "info") {
-		cout << "to jest Licznik Dram Rewrite, napisz do mnie jezli chcesz dodać mi propozycje aby cos dodac";
+		cout << "wersja 0.2, to jest Licznik Dram Rewrite, napisz do mnie jezli chcesz dodać mi propozycje aby cos dodac";
 	}
 
 
